@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/IceWhaleTech/CasaOS-Common/model"
-	http2 "github.com/IceWhaleTech/CasaOS-Common/utils/http"
+	"github.com/mayumigit/CasaOS-Common/model"
+	http2 "github.com/mayumigit/CasaOS-Common/utils/http"
 )
 
 const (
