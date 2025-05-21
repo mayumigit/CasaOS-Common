@@ -10,7 +10,6 @@ require (
 	github.com/labstack/echo-jwt/v4 v4.2.0
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/mattn/go-sqlite3 v1.14.16
-	github.com/BeesNestInc/CassetteOS-Common v0.4.15-alpha1-cs1.0.0
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/oapi-codegen/runtime v1.1.1
 	github.com/samber/lo v1.38.1

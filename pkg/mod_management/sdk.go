@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/mayumigit/CasaOS-Common/codegen/mod_management"
-	"github.com/mayumigit/CasaOS-Common/external"
+	"github.com/BeesNestInc/CassetteOS-Common/codegen/mod_management"
+	"github.com/BeesNestInc/CassetteOS-Common/external"
 	"github.com/tidwall/gjson"
 )
 

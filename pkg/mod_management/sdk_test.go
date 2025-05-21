@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	modmanagement "github.com/mayumigit/CasaOS-Common/pkg/mod_management"
+	modmanagement "github.com/BeesNestInc/CassetteOS-Common/pkg/mod_management"
 	"github.com/stretchr/testify/assert"
 )
 

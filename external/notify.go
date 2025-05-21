@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	http2 "github.com/mayumigit/CasaOS-Common/utils/http"
+	http2 "github.com/BeesNestInc/CassetteOS-Common/utils/http"
 )
 
 const (
