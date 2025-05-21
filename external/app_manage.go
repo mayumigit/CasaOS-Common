@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mayumigit/CasaOS-Common/model"
-	http2 "github.com/mayumigit/CasaOS-Common/utils/http"
+	"github.com/BeesNestInc/CassetteOS-Common/model"
+	http2 "github.com/BeesNestInc/CassetteOS-Common/utils/http"
 	"github.com/tidwall/gjson"
 )
 

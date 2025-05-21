@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/mayumigit/CasaOS-Common/utils/jwt"
+	"github.com/BeesNestInc/CassetteOS-Common/utils/jwt"
 )
 
 const (

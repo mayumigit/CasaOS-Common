@@ -1,7 +1,7 @@
 package idevice
 
 import (
-	"github.com/mayumigit/CasaOS-Common/utils/file"
+	"github.com/BeesNestInc/CassetteOS-Common/utils/file"
 )
 
 func GetOSRelease(name []string) (map[string]string, error) {
