@@ -1,12 +1,13 @@
 ## Unreleased
+
+### Added
+- Add GitHub Action `ci.yml` to run tests on push to `main` and `develop` branches.
+- Add GitHub Action `update-gomod-on-tag.yml` to update `go.mod` version on tag push.
+
 ### Changed
-
 - Transferred repository ownership from `mayumigit` to organization `BeesNestInc`.
-
 - Renamed repository from `CasaOS-Common` to `CassetteOS-Common`.
-
 - Updated module paths to reflect the new repository location.
-
   - e.g., `github.com/mayumigit/CasaOS-Common` → `github.com/BeesNestInc/CassetteOS-Common`
 
 ## v0.4.15-alpha1-cs1.0.0
