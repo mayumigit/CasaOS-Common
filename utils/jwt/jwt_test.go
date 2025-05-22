@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/mayumigit/CasaOS-Common/model"
-	"github.com/mayumigit/CasaOS-Common/utils/common_err"
-	"github.com/mayumigit/CasaOS-Common/utils/jwt"
+	"github.com/BeesNestInc/CassetteOS-Common/model"
+	"github.com/BeesNestInc/CassetteOS-Common/utils/common_err"
+	"github.com/BeesNestInc/CassetteOS-Common/utils/jwt"
 	"github.com/labstack/echo/v4"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
